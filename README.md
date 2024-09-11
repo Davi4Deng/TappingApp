@@ -1,18 +1,18 @@
-# Android Prework - *Simple to do*
+# Android Prework - *Name of App Here*
 
-Submitted by: **Shengfu Deng**
+Submitted by: **Your Name Here**
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **6 hours** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [x] Image and introductory message displayed on screen
+* [ ] Image and introductory message displayed on screen
 * [ ] Button displayed on screen
-* [x] Toast with message appears when button is pressed 
+* [ ] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
