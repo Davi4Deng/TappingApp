@@ -46,7 +46,7 @@ The following **stretch** functionality is implemented:
 
 Here's a walkthrough of implemented features:
 
-![walkthrough2](https://github.com/user-attachments/assets/8b8b8ca8-543b-4663-8651-970892dcff1e)
+![TappingApp](https://github.com/user-attachments/assets/67a5a23c-f0c3-4d3d-b3ca-17a258aadefe)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
